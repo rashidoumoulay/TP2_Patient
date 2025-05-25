@@ -32,5 +32,5 @@
 <img src="q8.4.png" alt="réponse de Q8.4">
 <img src="q8.5.png" alt="réponse de Q8.5">
 <h2>Résultats : </h2>
-<img src="res.1.png" alt="res1">
-<img src="res.2.png" alt="res2">
+<img src="res1.png" alt="res1">
+<img src="res2.png" alt="res2">
